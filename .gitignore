@@ -1,0 +1,14 @@
+# Swift Package Manager build output
+/.build/
+
+# Packaged application output
+/dist/
+
+# macOS metadata (Finder, AppleDouble resource forks from non-HFS mounts)
+.DS_Store
+._*
+
+# Editor / Xcode state
+.swiftpm/
+*.xcodeproj
+xcuserdata/
